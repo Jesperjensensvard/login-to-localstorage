@@ -1,0 +1,56 @@
+/* header style  */
+.background-navbar{
+    background-color: #212121;
+}
+
+
+.shopping-Cart-Top{
+  color: #fff;
+}
+
+.top-text-title{
+ position: relative;
+ top: 4em;
+ display: inline-block
+
+}
+
+.shopping-main-page{
+  width: 4em;
+  height: 4em;
+    
+}
+
+
+
+/* main content */
+.img-main{
+ height: 48vh;
+ width: 50%;
+}
+
+.shopp-crt-magin-btn{
+  margin-right: 5px;
+}
+
+
+.center-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.margin0{
+    margin: 0;
+}
+
+.no-padding{
+    padding: 0;
+}
+
+.center-text{
+    text-align: center;
+}
+
+
+
